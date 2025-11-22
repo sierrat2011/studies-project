@@ -13,7 +13,16 @@
 var myName;
 console.log(myName); // prints 'undefined' to the console
 
-// 2. Assignment or Initialization
+// 2. Assignment or Initialization //
 // To assign a variable after it is declared, you must type the variable name, followed by the = symbol, followed by whatever value you want. 
 // This can be done on the same line
  myName = 'Sierra'
+ console.log(myName); // prints 'Sierra' to the console
+
+ // 3. Reassignment //
+ // Variables can be reassigned
+ myName = 'Cierra';
+ console.log(myName); // prints 'Cierra' to the console
+
+ // 4. var, let and const //
+ // 
