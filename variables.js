@@ -1,7 +1,8 @@
 /**
  * VARIABLES:
  * 
- * 0: Variables are named identifiers bound to a section of code called a scope. 
+ * 0: Variables are named containers for data in JavaScript. We create variables using declarative keywords
+ * Variables are named identifiers bound to a section of code called a scope. 
  * Variables are a way to create and store values that we can use throughout the application. 
  * Unlike constants, variables can be reassigned to another value. Variables can hold many datatypes, including number
  * 
